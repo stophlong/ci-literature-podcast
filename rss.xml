@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Auditory Prosthetics &amp; Neural Engineering Literature Review</title>
+    <link>https://YOUR_GITHUB_USERNAME.github.io/ci-literature-podcast/</link>
+    <language>en-us</language>
+    <itunes:author>Stoph Long</itunes:author>
+    <description>Peer-review deep dives into cochlear implant signal processing, electrode-neural interfaces, and auditory prosthetics literature.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Stoph Long</itunes:name>
+      <itunes:email>stophlong@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://YOUR_GITHUB_USERNAME.github.io/ci-literature-podcast/cover.jpg"/>
+    <itunes:category text="Science"/>
+    <itunes:explicit>false</itunes:explicit>
+    <!-- EPISODES_INSERT_HERE -->
+  </channel>
+</rss>
